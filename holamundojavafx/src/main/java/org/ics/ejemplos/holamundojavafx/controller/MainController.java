@@ -1,4 +1,4 @@
-package org.ics.ejemplos.holamundojavafx.controller;
+ package org.ics.ejemplos.holamundojavafx.controller;
 
 import java.net.URL;
 import java.util.ResourceBundle;
